@@ -1,7 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Diaz!</strong></summary>
 Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
