@@ -1,27 +1,49 @@
-# <summary><strong>Hi there :wave: , I'm Diaz!</strong></summary>
-Lifelong Learner, currently working as budagh kompeni.
+# 👋 Hai, Saya Diaz Alfiari Rachmad
 
+## 🚀 Tentang Saya
+Seorang pengembang software yang bersemangat dengan ketertarikan dalam web development dan machine learning. Saya senang menciptakan solusi yang dapat membantu memecahkan masalah dunia nyata.
 
-## <summary><strong>Tools:</strong></summary>
-<p>
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-</p>
+## 🛠️ Tech Stack
+- **Bahasa Pemrograman:** Python, JavaScript, Java, PHP
+- **Frontend:** React.js, Vue.js, HTML5, CSS3
+- **Backend:** Node.js, Laravel, Django
+- **Database:** MySQL, MongoDB, PostgreSQL
+- **Tools:** Git, Docker, VS Code
+- **Cloud:** AWS, Google Cloud Platform
 
-### <summary><strong>Yosh!</strong></summary>
-<p>
-    - 🧑‍🏫 I am currently studying at Pasundan University
-    - 🌱 I’m currently learning PHP & Java
-    - 👯 I want to have a hobby of playing ball and playing games
-    - 📫 How to reach me: ig:diazalfrirchmd_
-<p>
- 
-### <summary><strong>Let's connect!</strong></summary>
-<a href="#">
-  <img align="left" alt="Goo's Twitter" width="20px" src="https://simpleicons.vercel.app/telegram/000" />
+## 📊 GitHub Statistik
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
+
+## 🏆 Pencapaian GitHub
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=dark)
+
+## 🔝 Bahasa yang Paling Sering Digunakan
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+
+## 🌱 Sedang Dipelajari
+- Kubernetes
+- Machine Learning
+- Cloud Architecture
+- Mobile Development dengan Flutter
+
+## 📫 Cara Menghubungi Saya
+- LinkedIn: [LinkedIn Profile](https://linkedin.com/in/USERNAME)
+- Email: diazalfiari19@domain.com
+- Website: [website.com](https://website.com)
+
+## 📌 Pinned Repositories
+<a href="https://github.com/USERNAME/repo1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo1" />
 </a>
-<a href="#">
-  <img align="left" alt="Goo's Instagram" width="20px" src="https://simpleicons.vercel.app/instagram/000" />
+<a href="https://github.com/USERNAME/repo2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=repo2" />
 </a>
-<a href="#">
-  <img align="left" alt="Goo's Blog" width="20px" src="https://simpleicons.now.sh/blogger/495f7e" />
-</a>
+
+## 🤝 Kontribusi
+[![Kontributor](https://contrib.rocks/image?repo=USERNAME/REPO)](https://github.com/USERNAME/REPO/graphs/contributors)
+
+## ⚡ Fun fact
+"Kode adalah puisi yang ditulis untuk komputer."
+
+---
+⭐️ Dari [Nama Anda](https://github.com/USERNAME)
