@@ -4,12 +4,11 @@
 Seorang pengembang software yang bersemangat dengan ketertarikan dalam web development dan machine learning. Saya senang menciptakan solusi yang dapat membantu memecahkan masalah dunia nyata.
 
 ## 🛠️ Tech Stack
-- **Bahasa Pemrograman:** Python, JavaScript, Java, PHP
-- **Frontend:** React.js, Vue.js, HTML5, CSS3
-- **Backend:** Node.js, Laravel, Django
-- **Database:** MySQL, MongoDB, PostgreSQL
-- **Tools:** Git, Docker, VS Code
-- **Cloud:** AWS, Google Cloud Platform
+- **Bahasa Pemrograman:** Java, PHP
+- **Frontend:** React.js, Tailwind.js, HTML5, CSS3
+- **Backend:** Node.js 
+- **Database:** MySQL, SQLite
+- **Tools:** Git, Jetbrains, VS Code
 
 ## 📊 GitHub Statistik
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical)
